@@ -1,4 +1,4 @@
-# AWS Learning Roadmap for Beginners (2025)
+# ![](https://img.icons8.com/?size=50&id=33039&format=png&color=000000) AWS Learning Roadmap for Beginners (2025)
 
 This 4-month structured learning path will take you from AWS beginner to having intermediate AWS skills, ready for professional work and certification.
 
